@@ -6,7 +6,7 @@ remember to use:
 
 git status
 git add
-git commit
+git commit -m "lalala and lalala"
 git push origin main
 
 
