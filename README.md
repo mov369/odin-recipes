@@ -11,3 +11,6 @@ git push origin main
 
 
 to send changes to GitHub
+
+
+I'm not sure what's up with git commits after I changed the names of the folders, so I renamed them back to see what I can do.
